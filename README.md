@@ -4,7 +4,7 @@
 
 </h1>
 
-## U+2B50 About Me
+## ⭐ About Me
 
 <p align="left">
 Hello, I’m <strong>Anurag Jha</strong> – a passionate B.Tech AIML student at <strong>Thakur College of Engineering and Technology</strong> with a strong focus on full stack web development.<br><br>

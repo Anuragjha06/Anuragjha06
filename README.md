@@ -23,7 +23,7 @@ Hello, I’m <strong>Anurag Jha</strong> – a passionate B.Tech AIML student at
 </p>
 
 
-## 💌 Connect With Me
+## 🤝 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anurag-jha-785105376/" target="_blank">

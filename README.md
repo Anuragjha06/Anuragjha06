@@ -10,7 +10,7 @@
 Hello, I’m <strong>Anurag Jha</strong> – a passionate B.Tech AIML student at <strong>Thakur College of Engineering and Technology</strong> with a strong focus on full stack web development.<br><br>
 🔭 Currently working with:
   <ul>
-    <li><h4>Python</h4></li>
+    <li><h4>Python | SQL </h4></li>
   </ul>
 </p>
 

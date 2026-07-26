@@ -19,7 +19,7 @@ Hello, I’m <strong>Anurag Jha</strong> – a passionate B.Tech AIML student at
 ## 🔧 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,python,github,css,js,.net" height="40" />
+  <img src="https://skillicons.dev/icons?i=html,python,github,css,js,dotnet" height="40" />
 </p>
 
 

@@ -7,7 +7,7 @@
 ## ⭐ About Me
 
 <p align="left">
-Hello, I’m <strong>Anurag Jha</strong> – a passionate B.Tech AIML student at <strong>Thakur College of Engineering and Technology</strong> with a strong focus on full stack web development.<br><br>
+Hello, I’m <strong>Anurag Jha</strong> – a passionate B.Tech AIML student at <strong>Thakur College of Engineering and Technology</strong> with a strong focus on Data Science.<br><br>
 🔭 Currently working with:
   <ul>
     <li><h4>Python | SQL | HTML | CSS | JS | Postman | .NET </h4></li>
